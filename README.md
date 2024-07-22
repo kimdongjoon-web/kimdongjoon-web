@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whitecolor)](https://solved.ac/whitecolor/) <img src="http://mazandi.herokuapp.com/api?handle=whitecolor&theme=dark"/> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdongjoon-web&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdongjoon-web)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whitecolor)](https://solved.ac/whitecolor/) <img src="http://mazandi.herokuapp.com/api?handle=whitecolor&theme=dark"/>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
-#Skills
 ###
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
