@@ -1,8 +1,8 @@
 ## Hi there 👋
 - ⚡ Programmers Devcourse Backend
-- 💪 Java level 1... improving...
-- 🌱 Spring level 0... improving...
-- 🌱 MySQL level 0... improving...
+- 💪 Java level 1
+- 🌱 Spring level 0
+- 🌱 MySQL level 0
 <!--
 **kimdongjoon-web/kimdongjoon-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
