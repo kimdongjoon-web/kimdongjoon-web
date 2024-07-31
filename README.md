@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 <img src="http://mazandi.herokuapp.com/api?handle=whitecolor&theme=dark"/>
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
