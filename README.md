@@ -1,5 +1,4 @@
-## Hi there 👋
-- ⚡ Programmers Devcourse Backend
+## STACK
 - 💪 Java level 1
 - 🌱 Spring level 0
 - 🌱 MySQL level 0
