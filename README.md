@@ -16,8 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whitecolor)](https://solved.ac/whitecolor/) 
-
-<img src="http://mazandi.herokuapp.com/api?handle=whitecolor&theme=dark"/>
-
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
