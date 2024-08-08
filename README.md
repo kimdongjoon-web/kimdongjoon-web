@@ -2,6 +2,11 @@
 - 💪 Java level 1
 - 🌱 Spring level 0
 - 🌱 MySQL level 0
+
+## English
+- 🌏 OPIc IH
+
+## Algorithm
 <!--
 **kimdongjoon-web/kimdongjoon-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
