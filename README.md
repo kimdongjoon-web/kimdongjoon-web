@@ -1,7 +1,5 @@
 ## Skills
-- 💪 Java level 1
-- 🌱 Spring level 0
-- 🌱 MySQL level 0
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
 
 ## English
 - 🌏 OPIc IH
@@ -25,4 +23,4 @@ Here are some ideas to get you started:
 
 <img src="http://mazandi.herokuapp.com/api?handle=whitecolor&theme=dark"/>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
+
