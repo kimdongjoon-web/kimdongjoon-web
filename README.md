@@ -2,7 +2,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
 
 ## English
-- 🌏 OPIc IH
+🌏 OPIc IH
 
 ## Algorithm
 <!--
