@@ -1,10 +1,10 @@
-## Skills
+## 📌 Skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
 
-## English
+## 📌 English
 🌏 OPIc IH
 
-## Algorithm
+## 📌 PS
 <!--
 **kimdongjoon-web/kimdongjoon-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
